@@ -10,12 +10,14 @@ Data Collection,
 Exploring the data,
 Data Cleaning, and
 Plotting various charts on the data: 
-      Scatter Plot of Earthquake Locations using (Longitudes and Lattitudes).
-      Histogram of the Earthquake Magnitudes.
-      Line Graph depicting Earthquake Activity over time.
-      Scatter plot showing the relation between depth and magnitude.
-      Heat Map.
+      Scatter Plot of Earthquake Locations using (Longitudes and Lattitudes),
+      Histogram of the Earthquake Magnitudes,
+      Line Graph depicting Earthquake Activity over time,
+      Scatter plot showing the relation between depth and magnitude,
+      Heat Map,and 
       Pair Plot.
+
+      
 Clustering the earthquake locations using KMeans Clustering and plotting a scatter plot of the earthquake clusters.
 Training and Testing the model on Simple Linear Regression and Random Forest to predict the magnitude of earthquakes.
 Calculating the Error (RMSE) for both the models.
