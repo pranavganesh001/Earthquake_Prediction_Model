@@ -6,9 +6,9 @@ The model aims to predict the likelihood of seismic events by analyzing historic
 
 
 The project’s key objectives include:
-Data Collection.
-Exploring the data.
-Data Cleaning.
+Data Collection,
+Exploring the data,
+Data Cleaning, and
 Plotting various charts on the data: 
       Scatter Plot of Earthquake Locations using (Longitudes and Lattitudes).
       Histogram of the Earthquake Magnitudes.
